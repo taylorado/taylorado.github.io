@@ -12,6 +12,6 @@ Arguably the best part about browsing through these dogs is the photos, which wi
 
 While the end result is fully functional - it's probably not practical in any sense.  A browse through the website would be quicker and easier.  The process of creating it, however, was a good exercise for me.  I mostly followed along Avi's example:  outlining in general how I wanted it to work,  creating placeholders when necessary, replacing the placeholders with functional scraping tools and then some final tweaks to the interface and efforts to offset potential errors.
 
-https://github.com/taylorado/austin_pets_alive/
+[https://github.com/taylorado/austin_pets_alive/](https://github.com/taylorado/austin_pets_alive/)
 
 
